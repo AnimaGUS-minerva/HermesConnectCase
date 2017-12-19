@@ -1,2 +1,9 @@
                              PI0-HEADER
-ETHERNET 1      BLACK
+ETHERNET 1      BLACK           2
+ETHERNET 1      WHITE           3
+ETHERNET 1      GREEN           4
+ETHERNET 1      RED             1
+ETHERNET 2      BLACK           2
+ETHERNET 2      WHITE           5
+ETHERNET 2      GREEN           6
+ETHERNET 2      RED             1
